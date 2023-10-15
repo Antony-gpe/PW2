@@ -1,0 +1,138 @@
+
+body {
+    background: linear-gradient(0deg, black 32%, var(--bs-blue) 93%);
+}
+
+label{
+    font-weight: bold;
+    margin-top: 20px;
+}
+h1{
+    margin-top: 15%;
+    justify-content: center;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: var(--bs-gray-200);
+}
+
+h3{
+    text-align: center;
+    color: var(--bs-gray-200);
+    margin-top: 50px;
+}
+
+ 
+form{
+    border: blue 2px solid;
+    scale: 1.5;
+}
+
+.card {
+   border-radius: 80px;
+}
+
+span{
+    color: var(--bs-white);
+}
+
+nav{
+    margin: 0px;
+  
+}
+
+div.navcol-2{
+    text-align: center;
+   
+}
+
+i{
+    font-size: 35px;
+    height: 45px;
+    margin-left: 40px;
+}
+
+i.fas {
+width: 11px;
+height: 25px;
+font-size: 25px;}
+
+i.fas1 {
+    font-size: 35px;
+    height: 45px;
+    margin-left: 40px;
+    color: var(--bs-white);
+}
+
+i.fab{
+    font-size: 39px;
+}
+ a.btn{
+    text-align: center;
+    margin-right: 41px;
+    width: 85.5625px;
+    height: 38px;
+ }
+ a.btn1{
+    margin-right: -0;
+    margin-bottom: 20px;
+    margin-left: 33px;
+ }
+
+input.text{
+    width: 660px;
+    height: 201px;
+    margin-top: 25px;
+}
+
+input{
+    text-align: center;
+    margin-left: 169px;
+    height: 36px;
+    width: 447px;
+}
+
+img.card{
+    height: 200px;
+    border-radius: 83px;
+}
+
+img.img-fluid{
+    width: 360px;
+}
+
+div.card-body{
+    margin: 6px;
+    margin-top: 6px;
+    width: 342px;
+    height: 188.797px;
+    border-radius: 22px;
+}
+
+div.container{
+    height: 326.188px;
+    margin-top: 187px;
+}
+
+div.row-mb-5{
+    width: 1126px;
+}
+
+div.row1{
+    padding: 18px;
+}
+
+p{
+    font-weight: bold;
+}
+
+select{
+    margin-top: 13px;
+}
+
+button.btn{
+    margin-left: 300px;
+}
+
