@@ -15,7 +15,7 @@ export const  Principal = () => {
                     <li className="nav-item"><a className="nav-link active" href="Principal.html">Home</a></li>
                     <li className="nav-item"><a className="nav-link" href="Mis Post.html">Mis Post</a></li>
                     <li className="nav-item"><a className="nav-link" href="Perfil.html">Perfil</a></li>
-                </ul><Link to={"/"}><a className="btn btn-primary ms-md-2" role="button" href="Landing.html">Log out</a></Link>
+                </ul><Link to={"/Login"}><a className="btn btn-primary ms-md-2" role="button" href="Landing.html">Log out</a></Link>
             </div>
         </div>
     </nav>

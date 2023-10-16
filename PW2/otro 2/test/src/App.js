@@ -9,9 +9,9 @@ import {CrearPost} from "./Pages/CrearPost";
     return <div>
    <Router>
    <Routes>
-   <Route path="/" element = {<Login />} />
+   <Route path="/" element = {<Registro />} />
    <Route path="/Principal" element = {<Principal />} />
-   <Route path="/Registro" element = {<Registro />} />
+   <Route path="/Login" element = {<Login />} />
    <Route path="/CrearPost" element = {<CrearPost />} />
    </Routes>
    </Router>
